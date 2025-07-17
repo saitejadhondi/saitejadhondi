@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**saitejadhondi/saitejadhondi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Saitej Jadhor</h1>
+<p align="center">🚀 A passionate learner and developer from India</p>
 
-Here are some ideas to get you started:
+const saitej = {
+  pronouns: "He" | "Him",
+  code: ["C++", "Python", "JavaScript"],
+  askMeAbout: ["Data Structures", "Web Development", "Open Source"],
+  currentFocus: "Mastering DSA & building real-world projects",
+  funFact: "I debug more than I code, and I still love it! 😄"
+};
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const [your_name] = {
+  pronouns: "He" | "Him",
+  code: ["Python", "JavaScript", "C++"], // add your languages
+  askMeAbout: ["Web Dev", "DSA", "AI", "Open Source"],
+  currentFocus: "Learning backend and system design",
+  funFact: "I love clean UI and coffee ☕"
+};
+

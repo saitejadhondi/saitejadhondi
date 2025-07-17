@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Dhondi Saiteja
 
 🎓 M.Tech in Computer Science — NIT Bhopal  
-💼 Embedded Systems Intern @ KPIT Technologies  
+💼 SDE Intern @ KPIT Technologies  
 📍 Telangana, India  
 📫 saitejadhondi34111@gmail.com  
 

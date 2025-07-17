@@ -1,21 +1,41 @@
-## Hi there 👋
+# 👋 Hello, I'm Dhondi Saiteja
 
-<h1 align="center">Hi 👋, I'm Saitej Jadhor</h1>
-<p align="center">🚀 A passionate learner and developer from India</p>
+🎓 M.Tech in Computer Science — NIT Bhopal  
+💼 Embedded Systems Intern @ KPIT Technologies  
+📍 Telangana, India  
+📫 saitejadhondi34111@gmail.com  
 
-const saitej = {
-  pronouns: "He" | "Him",
-  code: ["C++", "Python", "JavaScript"],
-  askMeAbout: ["Data Structures", "Web Development", "Open Source"],
-  currentFocus: "Mastering DSA & building real-world projects",
-  funFact: "I debug more than I code, and I still love it! 😄"
-};
+---
 
-const [your_name] = {
-  pronouns: "He" | "Him",
-  code: ["Python", "JavaScript", "C++"], // add your languages
-  askMeAbout: ["Web Dev", "DSA", "AI", "Open Source"],
-  currentFocus: "Learning backend and system design",
-  funFact: "I love clean UI and coffee ☕"
-};
+## 👨‍💻 Who I Am
 
+A focused and curious engineer passionate about solving real-world problems through code.  
+Currently diving deep into embedded systems, automotive software (AUTOSAR), and AI-based safety tech.
+
+---
+
+## 🔧 What I Know
+
+- **Languages:** C++, C, Python, Embedded C, Golang, SQL  
+- **Core Areas:** Data Structures & Algorithms, OS, Networking, AUTOSAR  
+- **Tools & Tech:** Linux, Git, DaVinci Configurator, Arduino
+---
+
+## 🧪 What I’ve Built
+
+- **Forest Fire Detection with Drones** — Real-time deep learning with YOLOv8  
+- **Industrial Gas Monitoring** — IoT + NodeMCU + Cloud-based alerts  
+- **NLP to SQL Engine** — Automates query generation from user input (Python + Flask)
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saiteja-dhondi/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saitejadhondi)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saitejadhondi34111@gmail.com)
+
+---
+
+> 💬 *"Code. Debug. Learn. Repeat."*  
+> Let’s build something awesome together 🚀
